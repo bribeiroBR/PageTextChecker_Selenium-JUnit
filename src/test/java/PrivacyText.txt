@@ -1,0 +1,249 @@
+Datenschutz - Erklärung und Einwilligungen
+
+English version
+
+Inhaltsverzeichnis
+
+Zielsetzung und verantwortliche Stelle
+Begriffsbestimmungen und grundsätzliche Angaben zur Datenverarbeitung
+Grundsätzliche Angaben zur Datenverarbeitung
+Verarbeitung personenbezogener Daten
+Registrierung mit Authentifizierungsdiensten Dritter
+WERBEEINVERSTÄNDNIS
+Informationsversand über elektronische Kanäle und Personalisierung
+Server Log-Daten
+Browser-Benachrichtigungen
+Google Analytics und UserID
+Google-Re/Marketing-Services
+Generelle Hinweise zur Facebook-Anbindung
+Individualisierung von Inhalten
+Verwendung von Facebook Social Plugins
+Facebook Re/Marketing, App-Analytics und Audience Network
+Mobile Statistiken und Dienste
+Weitere Analyse- und Re/Marketingtools
+Inhalts- und Serviceangebote von Dritten
+Rechte der Nutzer
+Änderungen der Datenschutzerklärung
+1.
+Zielsetzung und verantwortliche Stelle
+1.1
+Diese Datenschutzerklärung klärt über die Art, den Umfang und Zweck der Erhebung, Verarbeitung und Nutzung (nachfolgend zusammenfassend bezeichnet als „Verarbeitung“) von personenbezogenen Daten innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte (nachfolgend gemeinsam bezeichnet als „Onlineangebot“ oder „Website“) auf. Die Datenschutzerklärung gilt unabhängig von den verwendeten Domains, Systemen, Plattformen und Geräten (z.B. Desktop oder Mobile) auf denen das Onlineangebot ausgeführt wird.
+1.2
+Anbieter des Onlineangebotes und die datenschutzrechtlich verantwortliche Stelle ist die social sweethearts GmbH, Breite Straße 137-139 , D - 50667 Köln, Impressum und Kontaktangaben: 
+http://www.socialsweethearts.de/de_DE/#kontakt, (nachfolgend bezeichnet als "Anbieter", „wir“ oder „uns“).
+1.3.
+Der Begriff „Nutzer“ umfasst alle Kunden und Besucher unserer Onlineangebote. Die verwendeten Begrifflichkeiten, wie z.B. „Nutzer“ sind geschlechtsneutral zu verstehen.
+1.4.
+Sofern die Datenschutzerklärung Einwilligungen enthält, sind diese besonders hervorgehoben.
+1.5.
+Neben dieser Datenschutzerklärung gelten unsere AGB: http://www.socialsweethearts.de/terms.html.
+2.
+Begriffsbestimmungen und Grundsätzliche Angaben zur Datenverarbeitung
+2.1
+Personenbezogene Daten - Beim Datenschutz geht es um den Schutz von personenbezogenen Daten. Personenbezogene Daten sind Informationen, mit deren Hilfe eine Person bestimmbar ist, also die zurück zu einer Person verfolgt werden können. Dazu gehören zum Beispiel der Name, die Emailadresse oder die Telefonnummer oder von einer bestimmbaren Person aufgesuchten Webseiten.
+2.2
+Pseudonyme Daten - Pseudonyme Daten sind in der Regel statistische Daten. Zum Beispiel welche Seiten ein Webseitenbesucher aufgesucht hat und wie lang er sich auf ihnen aufgehalten hat. Anders als bei personenbezogenen Daten sind die wahren Identitäten der Besucher nicht bestimmbar, da diese Daten nur in pseudonymen Nutzerprofilen gespeichert werden (Z.B. "Nutzerprofil 12923" statt "Nutzerprofil Max Mustermann").
+2.3
+Cookies - Cookies sind Informationen, die von unserem Webserver oder Webservern Dritter an die Web-Browser der Nutzer übertragen und dort für einen späteren Abruf gespeichert werden. Über den Einsatz von Cookies im Rahmen pseudonymer Reichweitenmessung werden die Nutzer im Rahmen dieser Datenschutzerklärung informiert. Die Betrachtung dieses Onlineangebotes ist auch unter Ausschluss von Cookies möglich. Falls die Nutzer nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen. Es besteht die Möglichkeit, viele Online-Anzeigen-Cookies von Unternehmen über die US-amerikanische Seite http://www.aboutads.info/choices/ oder die EU-Seite http://www.youronlinechoices.com/uk/your-ad-choices/ oder die kanadische Seite http://youradchoices.ca/choices oder die australische Seite http://youronlinechoices.com.au/ zu verwalten.
+2.4
+Web Beacons - Web Beacons (auch als Pixel Tags bekannt) sind kleine Code-Zeichenfolgen, die ein Verfahren zur Zustellung eines grafischen Bildes auf einer Webseite zum Zweck der Übertragung von Informationen bereitstellen, wie zum Beispiel die IP-Adresse des Computers, der die Seite, auf der der Web Beacon erscheint, heruntergeladen hat; die Internetadresse (URL) der Seite, auf der der Web Beacon erscheint; die Uhrzeit der Anzeige der Seite, die den Web Beacon enthält; die Arten von Browsern, der den Web Beacon abgerufen haben und die ID-Nummer eines Cookies auf dem Computer, der zuvor von diesem Server dort platziert wurde.
+2.5
+IP-Adresse - Die IP-Adresse wird einem Internetanschluss beim Einwählen ins Internet durch den Internet-Provider zugewiesen (dynamische IP-Adresse). Der Anschlussinhaber kann nur mithilfe des Providers ermittelt werden, der die Daten nur aufgrund von gerichtlichen Beschlüssen herausgibt. Nach Ansicht der Datenschützer reicht diese Möglichkeit, einen Personenbezug herzustellen, aus (so genannter „Absoluter Personenbezug“.) Es ist auch möglich, dass die IP-Adressen, z.B. bei größeren Unternehmen, unverändert bleibt (statistische IP-Adresse). Der Anbieter speichert die IP-Adresse nur dann, wenn sie aufgrund rechtlicher Pflichten für ihn als Nachweis erforderlich wird.
+3.
+Grundsätzliches zur Datenverarbeitung und Datensicherheit
+3.1
+Wir verarbeiten personenbezogene Daten der Nutzer nur unter Einhaltung der einschlägigen Datenschutzbestimmungen entsprechend den Geboten der Datensparsamkeit- und Datenvermeidung. Das bedeutet die Daten der Nutzer werden nur beim Vorliegen einer gesetzlichen Erlaubnis, insbesondere wenn die Daten zur Erbringung unserer vertraglichen Leistungen sowie Online-Services erforderlich, bzw. gesetzlich vorgeschrieben sind oder beim Vorliegen einer Einwilligung verarbeitet.
+3.2
+Wir treffen organisatorische, vertragliche und technische Sicherheitsmaßnahmen entsprechend dem Stand der Technik, um sicher zu stellen, dass die Vorschriften der Datenschutzgesetze eingehalten werden und um damit die durch uns verarbeiteten Daten gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder gegen den Zugriff unberechtigter Personen zu schützen.
+3.3
+Sofern im Rahmen dieser Datenschutzerklärung Inhalte, Werkzeuge oder sonstige Mittel von anderen Anbietern (nachfolgend gemeinsam bezeichnet als „Drittanbieter“) eingesetzt werden und deren genannter Sitz im Ausland ist, ist davon auszugehen, dass ein Datentransfer in die Sitzstaaten der Dritt-Anbieter stattfindet. Die Übermittlung von Daten in Drittstaaten erfolgt entweder auf Grundlage einer gesetzlichen Erlaubnis, einer Einwilligung der Nutzer oder spezieller Vertragsklauseln, die eine gesetzlich vorausgesetzte Sicherheit der Daten gewährleisten.
+4.
+Verarbeitung personenbezogener Daten
+4.1
+Die personenbezogenen Daten werden, neben den ausdrücklich in dieser Datenschutzerklärung genannten Verwendung, für die folgenden Zwecke auf Grundlage gesetzlicher Erlaubnisse oder Einwilligungen der Nutzer verarbeitet:
+Die Zurverfügungstellung, Ausführung, Pflege, Optimierung und Sicherung unserer Dienste-, Service- und Nutzerleistungen;
+Die Gewährleistung eines effektiven Kundendienstes und technischen Supports.
+4.2
+Bei der Kontaktaufnahme mit uns (per Kontaktformular oder Email) werden die Angaben des Nutzers zwecks Bearbeitung der Anfrage sowie für den Fall, dass Anschlussfragen entstehen, gespeichert.
+5.
+Registrierung mit Authentifizierungsdiensten Dritter
+5.1
+Nutzer können sich mit Hilfe von Authentifizierungsdiensten von Drittanbietern registrieren und anmelden, soweit diese zur Verfügung gestellt werden (Nachfolgend bezeichnet als "Dritt-Authentifizierung"). Als Authentifizierungsdienste können insbesondere Facebook, Google oder Twitter in Frage kommen.
+5.2
+Voraussetzung für die Dritt-Authentifizierung ist, dass Nutzer bei den jeweiligen Drittanbietern registriert sind und die erforderlichen Zugangsdaten auf dem dafür vorgesehenen Webformular eingeben oder beim Drittanbieter bereits eingeloggt sind.
+5.3
+Im Rahmen einer Registrierung erhalten wir eine User-ID mit der Information, dass der Nutzer unter dieser User-ID eingeloggt ist und eine für den Anbieter nicht weiter nutzbare ID (User Handle). Ob wir weitere Daten übermittelt erhalten, hängt allein von der von dem Nutzer genutzten Dritt-Authentifizierung ab, den gewählten Datenfreigaben im Rahmen der Authentifizierung und zudem, welche Daten Nutzer in den Privatsphäre- oder sonstigen Einstellungen des Nutzerkontos beim Drittanbieter freigegeben haben. Es können je nach Anbieter und der Wahl der Nutzer verschiedene Daten sein, in der Regel sind es die E-Mail-Adresse und der Benutzername. Im Fall von Facebook sind es auch sog. "öffentliche Informationen", die jeder sehen kann. Hierzu zählen der Name, das Profil- und Titelbild, das Geschlecht, die Netzwerke (z.B. Schule oder Arbeitsstelle), der Nutzername (Facebook URL) und die Nutzerkennnummer (Facebook ID).
+5.4
+Das im Rahmen der Dritt-Authentifizierung eingegebene Passwort ist für uns weder einsehbar, noch wird es von dem Anbieter gespeichert.
+5.5
+Nutzer werden gebeten zu beachten, dass deren bei uns gespeicherte Angaben automatisch mit ihrem Nutzerkonto beim Drittanbieter abgeglichen werden können, jedoch ohne dass hierbei eine Aktualisierungspflicht unsererseits entsteht.
+5.6
+Sollten Nutzer sich einmal entscheiden, die Verknüpfung ihres Nutzerkontos beim Drittanbieter nicht mehr für die Dritt-Authentifizierung nutzen zu wollen, müssen sie diese Verbindung innerhalb ihres Nutzerkontos beim Drittanbieter aufheben. Möchten Nutzer ihre Daten bei uns löschen, müssen sie dies uns gegenüber erklären.
+5.7
+Nutzer werden gebeten zu beachten, dass im Rahmen der Nutzung der Dritt-Authentifizierung zusätzlich die Nutzungsbestimmungen als auch Datenverwendungsrichtlinien der Drittanbieter gelten. Dies sind insbesondere: Twitter (https://twitter.com/tos, https://twitter.com/privacy), Google (http://www.google.com/intl/de/policies/), Facebook (https://www.facebook.com/policies).
+6.
+WERBEEINVERSTÄNDNIS
+6.1
+Du erklärst dich damit einverstanden, über elektronische Kanäle wie z.B. e-Mail und/oder Notifications und/oder push Benachrichtigungen von uns Nachrichten mit informativen und/oder werblichen Angeboten aus den folgenden Themenbereichen zu erhalten: Probefahrten, Autos, kostenlose Gutscheine, Rabatt-Angebote, Reiseschnäppchen, Gewinnspiele, Produktproben, Newsletters, Kredite, Finanzen, Versicherungen, Geldanlage, Mobilkommunikation, Freikarten, Onlinespiele, Reisen, Applikationen, mobile Spiele und Applikationen, Videos, Quizze, Persönlichkeitstests, social media Angebote, Dating, Mode, Kosmetik, redaktionelle Inhalte und Angebote, Smartphones, Toolbars, Browser-Addons, Software, Geschenke, Zeitungen, Zeitschriften, Computerspiele, Skillgames, Sonderangebote, SIM-Karten, Strom, Gas, Energie, Telekommunikation, Versandhandel, Produktproben, Spiele, Banken, Umfragen, Marktforschung, Kredite, Fotoprodukte.
+6.2
+Dieses Werbeeinverständnis gilt innerhalb der Europäischen Union nur, soweit die Nutzer ausdrücklich eingewilligt haben, z.B. im Rahmen einer Einwilligungsbox. Dies gilt ebenso für andere Länder, in denen ebenfalls eine ausdrückliche Einwilligung gesetzlich vorgesehen ist.
+6.3
+DEIN VORTEIL: Oft können wir für Dich dank unserer guten Beziehungen ganz besondere Angebote, Konditionen und Rabatte aushandeln, die Du sonst ggf. NICHT bekommen würdest!
+6.4
+WIDERRUF: Du kannst Dich natürlich jederzeit von diesem Service abmelden.
+7.
+Informationsversand über elektronische Kanäle und Personalisierung
+7.1
+E-Mails und weitere elektronische Benachrichtigungen (nachfolgend einheitlich bezeichnet als „Newsletter“) mit werblichen Informationen über uns sowie unsere Leistungen werden nur mit einer ausdrücklichen Einwilligung der Nutzer oder wenn es gesetzlich erlaubt ist, versendet.
+7.2
+Wir dürfen die Einwilligung zum Versand mit einem Einwilligungsdialog innerhalb unseres Onlincervices einholen und mit einer E-Mail bestätigen lassen (sog. Double-Opt-In).
+7.3
+Nicht zu werblichen Informationen gehören Nachrichten im Rahmen der Vertragsbeziehung mit den Nutzern. Dazu gehört der Versand von Informationen soweit diese zur Leistungen des Dienstes gehören, technischen Informationen, Änderungen der Leistungen des Anbieters, Preise oder vertraglicher Bestimmungen, die Zahlungsabwicklung, Rückfragen zu Aufträgen und vergleichbare Nachrichten.
+7.4
+Die Nutzer können dem Empfang der E-Mails jederzeit widersprechen.
+7.5
+Im Rahmen der Anmeldung speichert der Anbieter den Anmelde- sowie den Bestätigungszeitpunkt und die IP-Adresse des Nutzers. Der Anbieter ist gesetzlich verpflichtet die Anmeldungen zu protokollieren, um eine ordnungsgemäße Anmeldung nachweisen zu können.
+7.6
+Um unsere Newsletter auf die Interessen der Nutzer anzupassen und um Inhalte, die für die Nutzer irrelevant sind zu vermeiden, als auch um die Sendefrequenz anzupassen (z.B. um weniger Newsletter zu versenden, wenn das Interesse der Nutzer geringer ist), messen wir, ob die Newsletter geöffnet werden (dies mit Hilfe eines Web Beacons, einer kleinen Grafik im Newsletterinhalt) und welche Links geklickt werden (dies mit Hilfe einer Link-Umleitung über unsere Server). Wir verwenden diese Informationen nicht für andere Zwecke und werden sie löschen, sobald Nutzer dem Empfang des Newsletters widersprechen. Dieses Einverständnis gilt innerhalb der Europäischen Union nur, soweit die Nutzer ausdrücklich eingewilligt haben, z.B. im Rahmen einer Einwilligungsbox. Dies gilt ebenso für andere Länder, in denen ebenfalls eine ausdrückliche Einwilligung gesetzlich vorgesehen ist.
+8.
+Server Log-Daten
+8.1
+Wir erheben Daten über jeden Zugriff auf Server, auf denen unser Onlineservice ausgeführt wird (so genannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des Nutzers, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
+8.2
+Wir verwenden die Protokolldaten ohne Zuordnung zur Person des Nutzers oder sonstiger Profilerstellung entsprechend den gesetzlichen Bestimmungen nur für statistische Auswertungen zum Zweck des Betriebs, der Sicherheit und der Optimierung unserer Server.
+9.
+Browser-Benachrichtigungen
+9.1
+Wir ermöglichen Nutzern, Informationen über unsere Dienste und Inhalte mit Hilfe von Nachrichten zu erhalten, die von deren Browsern eingeblendet werden (sog. „Push Notifications“, in deutschen Browsern bezeichnet als „Benachrichtigungen“). Hierzu nutzen wir derzeit den Dienst des Anbieters OneSignal Inc., 201 San Antonio Rd #140, Mountain View, CA 94040, USA.
+9.2
+Die Push Notifications werden mit der Einwilligung der Nutzer eingerichtet und setzen voraus, dass der Browser die Nutzer Push Notifications unterstützt. Um Push Notifications darstellen zu können, ist es notwendig, dass OneSignal ein Identifizierungsmerkmal des Browsers speichert, welches nur für die Push Notifications verwendet wird.
+9.3
+Weitere Informationen zu Push Notifications können Nutzer den Datenschutzhinweisen von OneSignal entnehmen: https://onesignal.com/privacy_policy.
+9.4
+Nutzer können dem weiteren Einsatz unserer Push Notifications jederzeit widersprechen, indem sie diese in den Einstellungen ihres Browsers abstellen.
+10.
+Google Analytics und UserID
+10.1
+Wir setzen Google Analytics, einen Webanalysedienst der Google Inc. („Google“) ein. Google verwendet Cookies. Die durch das Cookie erzeugten Informationen über Benutzung des Onlineangebotes durch die Nutzer werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert.
+10.2
+Wir nutzen zudem die Analytics Funktion UserID um Interaktionsdaten nachverfolgen zu können. Diese User ID wird zusätzlich anonymisiert und verschlüsselt und wird außer der pseudonymen Nutzung nicht mit anderen Daten in Zusammenhang gebracht.
+10.3
+Google wird diese Informationen in unserem Auftrag benutzen, um die Nutzung unseres Onlineangebotes durch die Nutzer auszuwerten, um Reports über die Aktivitäten innerhalb dieses Onlineangebotes zusammenzustellen und um weitere mit der Nutzung dieses Onlineangebotes und der Internetnutzung verbundene Dienstleistungen uns gegenüber zu erbringen. Dabei können aus den verarbeiteten Daten pseudonyme Nutzungsprofile der Nutzer erstellt werden.
+10.4
+Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt.
+10.5
+Wir nutzen die Analytics Funktionen für Remarketing, Berichte zu Impressionen im Google Display-Netzwerk, Integration von DoubleClick Campaign Manager, Google Analytics-Berichte zur Leistung nach demografischen Merkmalen und Interessen. Sie können Google Analytics für Display-Werbung deaktivieren und die Anzeigen im Google Display Netzwerk anpassen, indem Sie die Anzeigeneinstellungen unter diesem Link aufrufen: https://www.google.de/settings/ads.
+10.6
+Die von dem Browser des Nutzers übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Die Nutzer können die Speicherung der Cookies durch eine entsprechende Einstellung ihrer Browser-Software verhindern; die Nutzer können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf ihre Nutzung des Onlineangebotes bezogenen Daten an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link verfügbare Browser-Plugin herunterladen und installieren: https://tools.google.com/dlpage/gaoptout?hl=de.
+10.7
+Weitere Informationen zur Datennutzung zu Werbezwecken durch Google, Einstellungs- und Widerspruchsmöglichkeiten erfahren Sie auf den Webseiten von Google: https://www.google.com/intl/de/policies/privacy/partners („Datennutzung durch Google bei Ihrer Nutzung von Websites oder Apps unserer Partner“), http://www.google.com/policies/technologies/ads („Datennutzung zu Werbezwecken“), http://www.google.de/settings/ads („Informationen verwalten, die Google verwendet, um Ihnen Werbung einzublenden“) und http://www.google.com/ads/preferences („Bestimmen Sie, welche Werbung Google Ihnen zeigt“).
+11.
+Google-Re/Marketing-Services
+11.1
+Wir nutzen die Marketing- und Remarketing-Dienste (kurz „Google-Marketing-Services”) der Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, („Google“).
+11.2
+Die Google-Marketing-Services erlauben uns Werbeanzeigen für und auf unserer Website gezielter anzuzeigen, um Nutzern nur Anzeigen zu präsentieren, die potentiell deren Interessen entsprechen. Falls einem Nutzer z.B. Anzeigen für Produkte angezeigt werden, für die er sich auf anderen Webseiten interessiert hat, spricht man hierbei vom „Remarketing“. Zu diesen Zwecken wird bei Aufruf unserer und anderer Webseiten, auf denen Google-Marketing-Services aktiv sind, unmittelbar durch Google ein Code von Google ausgeführt und es werden in die Website sog. (Re)marketing-Tags (unsichtbare Grafiken oder Code, auch als "Web Beacons" bezeichnet) in die Webseite eingebunden. Mit deren Hilfe wird auf dem Gerät der Nutzer ein individuelles Cookie, d.h. eine kleine Datei abgespeichert (statt Cookies können auch vergleichbare Technologien verwendet werden). Die Cookies können von verschiedenen Domains gesetzt werden, unter anderem von google.com, doubleclick.net, invitemedia.com, admeld.com, googlesyndication.com oder googleadservices.com. In dieser Datei wird vermerkt, welche Webseiten der Nutzer aufgesucht, für welche Inhalte er sich interessiert und welche Angebote er geklickt hat, ferner technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung des Onlineangebotes. Es wird ebenfalls die IP-Adresse der Nutzer erfasst, wobei wir im Rahmen von Google-Analytics mitteilen, dass die IP-Adresse innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum gekürzt und nur in Ausnahmefällen ganz an einen Server von Google in den USA übertragen und dort gekürzt wird. Die IP-Adresse wird nicht mit Daten des Nutzers innerhalb von anderen Angeboten von Google zusammengeführt. Diese vorstehend genannten Informationen können auch mit solchen Informationen aus anderen Quellen verbunden werden. Wenn der Nutzer anschließend andere Webseiten besucht, können ihm entsprechend seiner Interessen die auf ihn abgestimmten Anzeigen angezeigt werden.
+11.3
+Die Daten der Nutzer werden im Rahmen der Google-Marketing-Services pseudonym verarbeitet. D.h. Google speichert und verarbeitet z.B. nicht den Namen oder E-Mailadresse der Nutzer, sondern verarbeitet die relevanten Daten Cookie-bezogen innerhalb pseudonymer Nutzer-Profile. D.h. aus der Sicht von Google werden die Anzeigen nicht für eine konkret identifizierte Person verwaltet und angezeigt, sondern für den Cookie-Inhaber, unabhängig davon wer dieser Cookie-Inhaber ist. Dies gilt nicht, wenn ein Nutzer Google ausdrücklich erlaubt hat, die Daten ohne diese Pseudonymisierung zu verarbeiten. Die von "DoubleClick" über die Nutzer gesammelten Informationen werden an Google übermittelt und auf Googles Servern in den USA gespeichert.
+11.4
+Zu den von uns eingesetzten Google-Marketing-Services gehört u.a. das Online-Werbeprogramm „Google AdWords“. Im Fall von Google AdWords, erhält jeder AdWords-Kunde ein anderes „Conversion-Cookie“. Cookies können somit nicht über die Websites von AdWords-Kunden nachverfolgt werden. Die mit Hilfe des Cookies eingeholten Informationen dienen dazu, Conversion-Statistiken für AdWords-Kunden zu erstellen, die sich für Conversion-Tracking entschieden haben. Die AdWords-Kunden erfahren die Gesamtanzahl der Nutzer, die auf ihre Anzeige geklickt haben und zu einer mit einem Conversion-Tracking-Tag versehenen Seite weitergeleitet wurden. Sie erhalten jedoch keine Informationen, mit denen sich Nutzer persönlich identifizieren lassen.
+11.5
+Wir binden auf Grundlage des Google-Marketing-Services "DoubleClick" Werbeanzeigen Dritter ein. DoubleClick verwendet Cookies, mit dem Google und seinen Partner-Websites, die Schaltung von Anzeigen auf Basis der Besuche von Nutzern auf dieser Website bzw. anderen Websites im Internet ermöglicht wird.
+11.6
+Wir binden ferner auf Grundlage des Google-Marketing-Services „AdSense“ Werbeanzeigen Dritter ein. AdSense verwendet Cookies, mit dem Google und seinen Partner-Websites, die Schaltung von Anzeigen auf Basis der Besuche von Nutzern auf dieser Website bzw. anderen Websites im Internet ermöglicht wird.
+11.7
+Mit Hilfe von Google-Optimierungsdiensten testen wir ferner die Nutzerfreundlichkeit und Effektivität unser Webseiten, z.B. im Rahmen von A/B-Testverfahren, bei denen den Nutzern unterschiedliche Versionen von Webseiten angezeigt werden.
+11.8
+Weitere von uns genutzte Google-Marketing-Services sind der „Campaign Manager“ sowie der "Google Tag Manager", mit dessen Hilfe weitere Google Analyse- und Marketing-Dienste in unsere Website eingebunden werden können (z.B. „AdWords“, „DoubleClick“ oder „Google Analytics“).
+11.9
+Weitere Informationen zur Datennutzung zu Marketingzwecken durch Google, erfahren Sie auf der Übersichtsseite: https://www.google.com/policies/technologies/ads, die Datenschutzerklärung von Google ist unter https://www.google.com/policies/privacy abrufbar.
+11.10
+Wenn Sie der Erfassung durch Google-Marketing-Services widersprechen möchten, können Sie die von Google gestellten Einstellungs- und Opt-Out-Möglichkeiten nutzen: http://www.google.com/ads/preferences.
+12.
+Generelle Hinweise zur Facebook-Anbindung
+12.1
+Sofern unser Onlineangebot als eine Facebook-Applikation ausgeführt wird und/oder Authentifizierung via Facebook erfolgt, bedarf dies einer Erlaubnis der Nutzer, damit wir auf die bei Facebook gespeicherten Daten der Nutzer zugreifen können.
+12.2
+Die Nutzer werden ausdrücklich auf diese Datenerhebung und die durch Facebook an uns entsprechend der Einwilligung der Nutzer mitgeteilten Daten (z.B. öffentliches Profil, Freundesliste, E-Mail-Adresse und „Gefällt mir“-Angaben) von uns im Rahmen des Zustimmungsdialogs von Facebook hingewiesen.
+12.3
+Die angeforderten Daten können anonym für statistische Zwecke verwendet werden. D.h. wenn die Einwilligung z.B. Facebook-Chronik, Posts oder Likes umfasst, dürfen wir auswerten, wie oft ein Beitrag geteilt oder „geliked“ wurde, um so Statistiken zu erstellen, die uns helfen unsere Angebote, Inhalte und insbesondere Quizzes und Persönlichkeitstests zu verbessern. Diese Auswertung erfolgt getrennt von den gespeicherten personenbezogenen Daten der Nutzer (z.B. getrennt von deren Facebook-IDs), die uns die Einwilligung erteilt haben, d.h. anonym. Die Auswertung erfolgt durch uns und für uns, eine Übertragung der Daten an Dritte erfolgt nicht.
+12.4
+Weitere Informationen zu dem Einwilligungsvorgang, Informationen über erteilte Einwilligungen sowie Möglichkeiten diese innerhalb ihres Facebookprofils zu widerrufen, können die Nutzer Facebooks Datenschutzerklärung entnehmen: https://www.facebook.com/about/privacy/your-info-on-other.
+12.5
+Die Nutzer haben die Möglichkeit die Anbindung unseres Onlineservices jederzeit mit den Applikationseinstellungen von Facebook zu beenden: https://www.facebook.com/settings?tab=applications.
+13.
+Individualisierung von Inhalten
+13.1
+Wir verarbeiten Daten der Nutzer, um unserer Onlineangebot und seine Inhalte optimal auf die Bedürfnisse der Nutzer anzupassen. Hierzu verwenden wir Daten, die wir entsprechend dieser Datenschutzerklärung über die Nutzer in Erfahrung bringen und analysieren diese mit Hilfe algorithmischer Funktionen. Hierbei können Nutzungsprofile entstehen. Diese Analyse erfolgt nur für unsere Zwecke, die Ergebnisse werden nicht an Dritte weitergegeben.
+13.2
+Zu den verwendeten Daten gehören insbesondere solche, die wir im Rahmen der Registrierung von Nutzern erhalten (z.B. Geschlecht, Name oder Land), wie auch Daten, die wir über die Nutzung unseres Onlineangebotes erhalten (z.B. welche Teile unseres Angebotes ein Nutzer am häufigsten nutzt, empfiehlt, favorisiert oder mit anderen Nutzern teilt).
+14.
+Verwendung von Facebook Social Plugins
+14.1
+Innerhalb dieses Dienstes werden Social Plugins ("Plugins") des sozialen Netzwerkes Facebook, welches von der Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ansässig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"). Die Plugins sind für gewöhnlich an einem der Facebook Logos erkennbar (z.B. "f" auf blauer Kachel oder ein "Daumen hoch"-Zeichen). Die vollständige Liste aller Plugins können Sie unter https://developers.facebook.com/docs/plugins/ einsehen.
+14.2
+Wenn ein Nutzer eine Webseite dieses Dienstes aufruft, die ein solches Plugin enthält, baut sein Browser eine direkte Verbindung mit den Servern von Facebook auf. Der Inhalt des Plugins wird von Facebook direkt an den Browser des Nutzers übermittelt und von dem Browser in die Webseite eingebunden. Der Anbieter hat daher keinen Einfluss auf den Umfang der Daten, die Facebook mit Hilfe dieses Plugins erhebt und informiert die Nutzer daher entsprechend seines Kenntnisstands: Durch die Einbindung der Plugins erhält Facebook die Information, dass ein Nutzer die entsprechende Seite des Dienstes aufgerufen hat. Ist der Nutzer bei Facebook eingeloggt, kann Facebook den Besuch seinem Facebook-Konto zuordnen. Wenn ein Nutzer mit den Plugins interagieren, zum Beispiel den Like Button betätigen oder einen Kommentar abgeben, wird die entsprechende Information von Ihrem Browser direkt an Facebook übermittelt und dort gespeichert. Falls ein Nutzer kein Mitglied von Facebook ist, besteht trotzdem die Möglichkeit, dass Facebook seine IP-Adresse in Erfahrung bringt und speichert. Laut Facebook wird in Deutschland nur eine anonymisierte IP-Adresse gespeichert.
+14.3
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Facebook sowie die diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz der Privatsphäre der Nutzer können diese den Datenschutzhinweisen von Facebook entnehmen: http://www.facebook.com/policy.php.
+14.4
+Sie können der Erfassung durch Facebook-Social-Plugins und Verwendung Ihrer Daten zu Werbezwecken widersprechen. Hierzu können Sie die von Facebook eingerichtete Seite aufrufen und dort die Hinweise zu den Einstellungen nutzungsbasierter Werbung befolgen:
+https://www.facebook.com/settings?tab=ads oder den Widerspruch über die Seite http://www.aboutads.info/choices oder die EU-Seite http://www.youronlinechoices.com erklären. Die Einstellungen erfolgen plattformunabhängig, d.h. sie werden für alle Geräte, wie Desktopcomputer oder mobile Geräte übernommen.
+15.
+Facebook Re/Marketing, App-Analytics und Audience Network
+15.1
+Innerhalb unseres Onlineangebotes werden Werbeinhalte des Facebook Audience Network sowie sog. "Facebook-Pixel" sowie „App-Analytics“-Funktionen (nachfolgend zusammen bezeichnet als „Facebook-Re/Marketing-Funktionen“) des sozialen Netzwerkes Facebook, welches von der Facebook Inc., 1 Hacker Way, Menlo Park, CA 94025, USA, bzw. falls Sie in der EU ansässig sind, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland betrieben wird ("Facebook"), eingesetzt. Mit Hilfe der Facebook-Re/Marketing-Funktionen ist es Facebook möglich, die Besucher unseres Angebotes als Zielgruppe für die Darstellung von Anzeigen, sog. "Facebook-Ads" zu bestimmen. Dementsprechend setzen wir Facebook-Re/Marketing-Funktionen ein, um die durch uns geschalteten Facebook-Ads nur solchen Facebook-Nutzern anzuzeigen, die auch ein Interesse an unserem Internetangebot gezeigt haben, sowie solchen Facebook Nutzern, die aufgrund ähnlicher Merkmale ein Interesse daran haben könnten (sog. "Lookalike Audiences"). Das heißt, mit Hilfe der Facebook-Re/Marketing-Funktionen möchten wir sicherstellen, dass unsere Facebook-Ads dem potentiellen Interesse der Nutzer entsprechen und nicht belästigend wirken. Mit Hilfe der Facebook-Re/Marketing-Funktionen können wir ferner die Wirksamkeit der Facebook-Werbeanzeigen für statistische und Marktforschungszwecke nachvollziehen, indem wir sehen, ob Nutzer nach dem Klick auf eine Facebook-Werbeanzeige auf unsere Website weitergeleitet wurden.
+15.2
+Die Facebook-Re/Marketing-Funktionen werden beim Aufruf unserer Onlineangebote oder solcher von Mitgliedern in Facebooks Audience Network, unmittelbar durch Facebook eingebunden und können auf Ihrem Gerät ein sog. Cookie, d.h. eine kleine Datei abspeichern (alternativ können, insbesondere bei „App-Analytics“-Funktionen, auch gerätebezogene Identifizierungsmerkmale verwendet werden). Wenn Sie sich anschließend bei Facebook einloggen oder im eingeloggten Zustand Facebook besuchen, wird der Besuch und Nutzung unseres Angebotes in Ihrem Profil vermerkt. Hierbei können Nutzungsprofile entstehen.
+15.3
+Die über Sie erhobenen Daten sind für uns anonym, bieten uns also keine Rückschlüsse auf die Identität der Nutzer. Allerdings werden die Daten von Facebook gespeichert und verarbeitet, sodass eine Verbindung zum jeweiligen Nutzerprofil möglich ist. Die Verarbeitung der Daten durch Facebook erfolgt im Rahmen von Facebooks Datenverwendungsrichtlinie. Dementsprechend erhalten Sie weitere Informationen zur Funktionsweise der „Facebook-Re/Marketing-Funktionen“ und generell zur Darstellung von Facebook-Ads, in der Datenverwendungsrichtlinie von Facebook: https://www.facebook.com/policy.php.
+15.4
+Sie können der Erfassung durch Facebook-Re/Marketing-Funktionen und Verwendung Ihrer Daten zu Werbezwecken widersprechen. Hierzu können Sie die von Facebook eingerichtete Seite aufrufen und dort die Hinweise zu den Einstellungen nutzungsbasierter Werbung befolgen: https://www.facebook.com/settings?tab=ads oder den Widerspruch über die Seite http://www.aboutads.info/choices oder die EU-Seite http://www.youronlinechoices.com erklären. Die Einstellungen erfolgen plattformunabhängig, d.h. sie werden für alle Geräte, wie Desktopcomputer oder mobile Geräte übernommen.
+16.
+Mobile Statistiken und Dienste
+16.1
+Wir verwenden Flurry (www.flurry.com 360 3rd Street San Franciso, CA 94107, USA), ein Tool welches es erlaubt, die Interaktion der App-User zu verstehen und statistisch auszuwerten. Die Informationen werden in aggregierter Form dargestellt, wie z.B. Anzahl User in einem Zeitraum, Anzahl User pro Gerätetyp, Session Dauer. Es werden weder persönliche Daten gesammelt noch ausgewertet. Flurry sammelt keinerlei persönliche Daten wie den Namen, Telefonnummer, Geräte-UDID, E-Mail oder Texte von Nachrichten. Flurry speichert lediglich den Gerätetyp, das verwendete Betriebssystem, den Namen des Providers, sowie Ereignisse welche in der App auftreten, wie etwa Anzahl App-Nutzung und Nutzungsdauer. Hierbei können Nutzungsprofile entstehen. Falls Sie verhindern wollen, dass Flurry diese Daten zum Zweck der Produktverbesserung verwendet, so können Sie sich über folgende Website abmelden: http://www.flurry.com/user-opt-out.html.
+16.2
+Wir setzen auf unseren mobilen Applikationen die Werbeanbieter Applift (http://www.applift.com/) und AddApptr (http://www.addapptr.com/) ein. Dabei werden anonyme Messwerte auf Grundlage der Gerätekennung erhoben, welche jedoch durch die Anbieter anonymisiert wird. Das gleiche gilt für IP-Adressen. Hierbei können Nutzungsprofile entstehen.
+16.3
+Um Push-Nachrichten an Nutzer senden zu können, speichern wir einen pseudonymen Geräte-Token, mit dem wir das Gerät identifizieren können.
+17.
+Weitere Analyse- und Re/Marketingtools
+17.1
+Innerhalb unseres Onlineangebotes verwenden wir die Analyse-, Re/Marketing- und Werbetechnologien von Drittanbietern, um die Effizienz der eingesetzten Marketingmethoden und deren Relevanz für die Nutzer zu vergrößern und um Werbeflächen in unseren Angeboten zu vermarkten. Die Drittanbieter können zu diesen Zwecken so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) verwenden. Durch die "Pixel-Tags" können Informationen wie der Besucherverkehr auf den Seiten unseres Onlineangebotes ausgewertet werden. Hierbei können Nutzungsprofile entstehen. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden oder zur anschließenden Anzeige gezielter Produktempfehlungen als personalisierte Werbebanner auf unseren und auf anderen Webseiten und Anwendungen verwendet werden.
+17.2
+Nachfolgend führen wir Informationen zu den einzelnen Drittanbietern, deren Datenschutzerklärungen sowie die Möglichkeit ihrer Datenerfassung zu widersprechen (sog. „Opt-Out“), auf:
+Criteo SA, 32 Rue Blanche, 75009 Paris, Frankreich (nachfolgend “Criteo”) – Datenschutzerklärung & Opt-Out: http://www.criteo.com/privacy/
+LifeStreet Corporation, 981 Industrial Road, Suite F, San Carlos, CA 94070, USA. Datenschutzerklärung: http://www.lifestreetmedia.com/privacy/ & Opt-Out: http://www.lifestreetmedia.com/optout/
+Taboola, Inc., Kings Court, 2-16 Goodge Street, 2nd fl., London W1T 2QA, UK. Datenschutzerklärung & Opt-Out: https://www.taboola.com/privacy-policy
+Outbrain Inc., 39 West 13th Street, 3rd floor, New York, NY 10011, USA. Datenschutzerklärung & Opt-Out: http://www.outbrain.com/de/legal/privacy
+OpenX Software Ltd., 4300 Bohannon Dr, 100, Menlo Park, CA 94025, USA. Datenschutzerklärung & Opt-Out: http://openx.com/legal/privacypolicy/
+Revcontent, LLC., 5901 N Honore Ave #210, Sarasota, FL 34243, USA. Datenschutzerklärung & Opt-Out: http://faq.revcontent.com/support/solutions/articles/5000615200-revcontent-s-privacy-policy
+Appnexus, Inc., 28 west 23rd street, floor 4, New York, NY 10010. Datenschutzerklärung: https://www.appnexus.com/en/company/platform-privacy-policy-de#choices
+Statcounter, StatCounter, Guinness Enterprise Centre, Taylor's Lane Dublin 8, Ireland. Datenschutzerklärung & Opt-Out: https://statcounter.com/about/legal/
+18.
+Inhalts- und Serviceangebote von Dritten
+18.1
+Wir setzen innerhalb unseres Onlineangebotes Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Quizze, Tests, Spiele, Texte, Bilder, Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”). Dies setzt immer voraus, dass die Drittanbieter dieser Inhalte, die IP-Adresse der Nutzer wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als "Web Beacons" bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die "Pixel-Tags" können Informationen wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden können.
+18.2
+Nachfolgend führen wir Informationen zu den einzelnen Drittanbietern, deren Datenschutzerklärungen sowie die Möglichkeit ihrer Datenerfassung zu widersprechen (sog. „Opt-Out“), auf:
+Playbuzz Ltd., Inhaltsanbieter, 26th Floor Rubinstein Building, 37 Menachem Begin Rd, Tel Aviv, Israel, 6522042. Datenschutzerklärung & Opt-Out: http://www.playbuzz.com/PrivacyPolicy
+Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA, https://www.cloudflare.com/, ein Content Delivery Network (CDN), mit dessen Hilfe Inhalte unseres Dienstes, insbesondere große Mediendateien, wie Grafiken oder Skripte mit Hilfe regional verteilter und über das Internet verbundener Server, schneller ausgeliefert werden. Coudflare hilft uns ferner das Land, in dem sich der Nutzer befindet, anhand der IP-Adresse zu bestimmen, damit wir unsere Angebote und Inhalte dementsprechend anpassen können (z.B. im Hinblick auf Sitten oder gesetzliche Anforderungen des Landes). Datenschutzerklärung: https://www.cloudflare.com/security-policy/.
+Optimizely, 631 Howard Street, Suite 100 San Francisco, CA 94105, USA, Optimizely erlaubt uns im Rahmen so genannten "A/B-Testings" nachzuvollziehen, wie sich verschiedene Änderungen unseres Dienstes auswirken (z.B. Veränderungen der Eingabefelder, des Designs, etc.). Nur für diese Testzwecke werden Cookies auf den Geräten der Nutzer abgelegt. Dabei werden nur pseudonyme Daten der Nutzer und keine personenbezogenen Daten gespeichert. Hierbei können Nutzungsprofile entstehen. Es werden keine IP-Adressen gespeichert. Alle gespeicherten Daten werden zudem nicht an Dritte weitergegeben. Datenschutzerklärung: https://www.optimizely.com/privacy, Opt-Out: https://www.optimizely.com/opt_out.
+Sentry, Inc., 25 Kearny St, Suite 500 San Francisco, CA 94108, USA. Echtzeit Fehler-Tracking zwecks Fehleranalyse und -Auswertung Datenschutzerklärung: https://sentry.io/privacy/.
+YouTube, Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, Videos, Datenschutzerklärung: https://www.google.com/policies/privacy/, Opt-Out: https://www.google.com/settings/ads/.
+LittleThings, 21 Penn Plaza 5th Floor New York, New York 10001, USA. Videos, Bilder, Texte, etc. Datenschutzerklärung: http://www.littlethings.com/privacy.
+Spot.IM, New York 620 W 42nd, New York NY 10036, USA. Ein Konversations-Tool, mit dem Nutzer z.B. Kommentare verfassen können. Mit der Nutzung von Spot.IM erklären sich Nutzer mit den Nutzungs- und Datenschutzbedingungen von Spot.IM einverstanden, welche ihnen in der Eingabebox von Spot.IM mitgeteilt werden. Datenschutzerklärung mit Hinweisen zum Opt-Out: https://www.spot.im/privacy/.
+19.
+Rechte der Nutzer
+19.1
+Nutzer haben das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die von uns über sie gespeichert wurden.
+19.2
+Zusätzlich haben die Nutzer das Recht auf Berichtigung unrichtiger Daten, Widerruf von Einwilligungen, Aufsichtsbehördenbeschwerde, Sperrung und Löschung ihrer personenbezogenen Daten.
+19.3
+Die bei uns gespeicherten Daten werden gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+20.
+Änderungen der Datenschutzerklärung
+20.1
+Wir behalten uns vor, die Datenschutzerklärung zu ändern, um sie an geänderte Rechtslagen, oder bei Änderungen des Dienstes sowie der Datenverarbeitung anzupassen. Dies gilt jedoch nur im Hinblick auf Erklärungen zur Datenverarbeitung. Sofern Einwilligungen der Nutzer erforderlich sind oder Bestandteile der Datenschutzerklärung Regelungen des Vertragsverhältnisses mit den Nutzern enthalten, erfolgen die Änderungen nur mit Zustimmung der Nutzer.
+20.2
+Die Nutzer werden gebeten sich regelmäßig über den Inhalt der Datenschutzerklärung zu informieren.
